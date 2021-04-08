@@ -29,8 +29,8 @@ def reply_exchange_rate(name):
 app = Flask(__name__)
 print("[程式開始運行]")
 
-CHANNEL_ACCESS_TOKEN = 'mXM3E1PJFj989jfxmbjA9HO48w4DZ8tdSfWq0lvRfxiCHFOf1VLWBGvuuMBcRHL+8MzVFCqlpVe7ZjOj1CXd6aNG7fSDl7L0Q7/DhGchV48TAXpPJVdzMMDogqrvaqt2G7qZlZaG/Z5uzo9aDDbwEAdB04t89/1O/w1cDnyilFU='
-CHANNEL_SECRET = '67d75e540cb93d3dc15ed89dd78a2613'
+CHANNEL_ACCESS_TOKEN = '**********' 
+CHANNEL_SECRET = '*********'   
 
 
 # ================== 以下為 X-LINE-SIGNATURE 驗證程序 ==================
